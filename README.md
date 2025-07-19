@@ -1,1 +1,66 @@
-# Malla-imagenologia
+# 🎓 Malla Curricular - Licenciatura en Imagenología (EUTM)
+
+Visualización y seguimiento de avance académico.
+
+### Leyenda:
+- ✅ Aprobada
+- 🟡 Cursando
+- ❌ Pendiente
+
+---
+
+## 🥇 Primer Año (min: 13 U.C.B)
+
+- ❌ ANATOMIA  
+- ❌ BIOLOGIA CELULAR Y TISULAR  
+- ❌ NEUROBIOLOGIA  
+- ❌ CARDIO VASCULAR Y RESPIRATORIO  
+- ❌ DIGESTIVO RENAL Y ENDOCRINO  
+- ❌ REPRODUCTOR Y DESARROLLO  
+- ❌ ENFERMERIA  
+- ❌ PSICOLOGIA I  
+- ❌ FISICA BASICA (3317)  
+- ❌ SALUD PUBLICA (10 / CSE1 / P10N)  
+- ❌ METODOLOGIA CIENTIFICA  
+- ❌ FISIOPATOLOGIA (331)  
+- ❌ FISICA RADIOLOGICA (332)
+
+---
+
+## 🥈 Segundo Año (min: 7 U.C.B)
+
+- ❌ TECNICAS RADIOLOGICAS I (333)  
+- ❌ PROTECCION RADIOLOGICA Y CONTROL DE CALIDAD (334)  
+- ❌ ANATOMIA RADIOLOGICA I (335)  
+- ❌ SISTEMA DE PROCESAMIENTO DE IMAGEN I (336)  
+- ❌ ANATOMIA RADIOLOGICA II (337)  
+- ❌ SISTEMA DE PROCESAMIENTO DE IMAGEN II (338)  
+- ❌ TECNICAS RADIOLOGICAS II (339)
+
+---
+
+## 🥉 Tercer Año (min: 6 U.C.B)
+
+- ❌ ANATOMIA RADIOLOGICA III (3310)  
+- ❌ TECNICAS RADIOLOGICAS III (3311)  
+- ❌ IMAGENOLOGIA ESPECIALIZADA I (3312)  
+- ❌ INTRODUCCIÓN AL TRABAJO CIENTÍFICO (3313)  
+- ❌ DEONTOLOGIA Y LEGISLACION LABORAL (11)  
+- ❌ ADMINISTRACION HOSPITALARIA (12 / P12N)
+
+---
+
+## 🏁 Cuarto Año (min: 3 U.C.B)
+
+- ❌ IMAGENOLOGIA ESPECIALIZADA II (3314)  
+- ❌ INTERNADO (3315)  
+- ❌ MONOGRAFIA (3316)  
+- ❌ SEMINARIOS ACADÉMICOS DEL HOSPITAL DE CLINICAS (SAHC)
+
+---
+
+## 📊 Progreso general
+
+Materias aprobadas: `0/29`  
+Materias cursando: `0`  
+Materias pendientes: `29`
